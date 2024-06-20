@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrongo&label=Profile%20views&color=0e75b6&style=flat" alt="xrongo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xrongo" alt="xrongo" /></a> </p>
-
 - 🔭 I’m currently working on **Ordu Yönetimi**
 
 - 💬 Ask me about **discord.js**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrongo&show_icons=true&locale=en&layout=compact" alt="xrongo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrongo&show_icons=true&locale=en" alt="xrongo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xrongo&" alt="xrongo" /></p>
